@@ -1,0 +1,11 @@
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/Module_01/Lab_01/Lab_01/Lab_01/bin/Debug/netcoreapp2.0/Lab_01.deps.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/Module_01/Lab_01/Lab_01/Lab_01/bin/Debug/netcoreapp2.0/Lab_01.runtimeconfig.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/Module_01/Lab_01/Lab_01/Lab_01/bin/Debug/netcoreapp2.0/Lab_01.runtimeconfig.dev.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/Module_01/Lab_01/Lab_01/Lab_01/bin/Debug/netcoreapp2.0/Lab_01.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/Module_01/Lab_01/Lab_01/Lab_01/bin/Debug/netcoreapp2.0/Lab_01.pdb
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/Module_01/Lab_01/Lab_01/Lab_01/obj/Debug/netcoreapp2.0/Lab_01.csprojResolveAssemblyReference.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/Module_01/Lab_01/Lab_01/Lab_01/obj/Debug/netcoreapp2.0/Lab_01.csproj.CoreCompileInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/Module_01/Lab_01/Lab_01/Lab_01/obj/Debug/netcoreapp2.0/Lab_01.AssemblyInfoInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/Module_01/Lab_01/Lab_01/Lab_01/obj/Debug/netcoreapp2.0/Lab_01.AssemblyInfo.cs
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/Module_01/Lab_01/Lab_01/Lab_01/obj/Debug/netcoreapp2.0/Lab_01.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/Module_01/Lab_01/Lab_01/Lab_01/obj/Debug/netcoreapp2.0/Lab_01.pdb
