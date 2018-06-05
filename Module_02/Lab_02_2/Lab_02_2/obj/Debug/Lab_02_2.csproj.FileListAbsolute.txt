@@ -1,0 +1,10 @@
+H:\Rasmussen\!Microsoft_CSharp\Course_Assignments\COP2456C_CSharp\Module_02\Lab_02_2\Lab_02_2\bin\Debug\Lab_02_2.exe.config
+H:\Rasmussen\!Microsoft_CSharp\Course_Assignments\COP2456C_CSharp\Module_02\Lab_02_2\Lab_02_2\bin\Debug\Lab_02_2.exe
+H:\Rasmussen\!Microsoft_CSharp\Course_Assignments\COP2456C_CSharp\Module_02\Lab_02_2\Lab_02_2\bin\Debug\Lab_02_2.pdb
+H:\Rasmussen\!Microsoft_CSharp\Course_Assignments\COP2456C_CSharp\Module_02\Lab_02_2\Lab_02_2\obj\Debug\Lab_02_2.csprojAssemblyReference.cache
+H:\Rasmussen\!Microsoft_CSharp\Course_Assignments\COP2456C_CSharp\Module_02\Lab_02_2\Lab_02_2\obj\Debug\Lab_02_2.Form1.resources
+H:\Rasmussen\!Microsoft_CSharp\Course_Assignments\COP2456C_CSharp\Module_02\Lab_02_2\Lab_02_2\obj\Debug\Lab_02_2.Properties.Resources.resources
+H:\Rasmussen\!Microsoft_CSharp\Course_Assignments\COP2456C_CSharp\Module_02\Lab_02_2\Lab_02_2\obj\Debug\Lab_02_2.csproj.GenerateResource.cache
+H:\Rasmussen\!Microsoft_CSharp\Course_Assignments\COP2456C_CSharp\Module_02\Lab_02_2\Lab_02_2\obj\Debug\Lab_02_2.csproj.CoreCompileInputs.cache
+H:\Rasmussen\!Microsoft_CSharp\Course_Assignments\COP2456C_CSharp\Module_02\Lab_02_2\Lab_02_2\obj\Debug\Lab_02_2.exe
+H:\Rasmussen\!Microsoft_CSharp\Course_Assignments\COP2456C_CSharp\Module_02\Lab_02_2\Lab_02_2\obj\Debug\Lab_02_2.pdb
