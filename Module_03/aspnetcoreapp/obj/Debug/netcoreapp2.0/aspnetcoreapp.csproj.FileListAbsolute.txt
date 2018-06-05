@@ -1,0 +1,11 @@
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.deps.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.runtimeconfig.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.runtimeconfig.dev.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.pdb
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.csprojAssemblyReference.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.csproj.CoreCompileInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.AssemblyInfoInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.AssemblyInfo.cs
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.pdb

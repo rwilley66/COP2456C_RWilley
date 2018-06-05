@@ -1,0 +1,11 @@
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/rwilley_webapp/bin/Debug/netcoreapp2.0/rwilley_webapp.deps.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/rwilley_webapp/bin/Debug/netcoreapp2.0/rwilley_webapp.runtimeconfig.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/rwilley_webapp/bin/Debug/netcoreapp2.0/rwilley_webapp.runtimeconfig.dev.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/rwilley_webapp/bin/Debug/netcoreapp2.0/rwilley_webapp.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/rwilley_webapp/bin/Debug/netcoreapp2.0/rwilley_webapp.pdb
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/rwilley_webapp/obj/Debug/netcoreapp2.0/rwilley_webapp.csprojAssemblyReference.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/rwilley_webapp/obj/Debug/netcoreapp2.0/rwilley_webapp.csproj.CoreCompileInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/rwilley_webapp/obj/Debug/netcoreapp2.0/rwilley_webapp.AssemblyInfoInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/rwilley_webapp/obj/Debug/netcoreapp2.0/rwilley_webapp.AssemblyInfo.cs
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/rwilley_webapp/obj/Debug/netcoreapp2.0/rwilley_webapp.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/rwilley_webapp/obj/Debug/netcoreapp2.0/rwilley_webapp.pdb

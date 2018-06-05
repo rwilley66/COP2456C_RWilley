@@ -1,0 +1,11 @@
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/MvcMovie/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_03/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csprojResolveAssemblyReference.cache
