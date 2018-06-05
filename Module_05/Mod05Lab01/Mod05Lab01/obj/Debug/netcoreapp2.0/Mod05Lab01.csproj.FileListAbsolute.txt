@@ -1,0 +1,11 @@
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/Mod05Lab01/Mod05Lab01/bin/Debug/netcoreapp2.0/Mod05Lab01.deps.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/Mod05Lab01/Mod05Lab01/bin/Debug/netcoreapp2.0/Mod05Lab01.runtimeconfig.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/Mod05Lab01/Mod05Lab01/bin/Debug/netcoreapp2.0/Mod05Lab01.runtimeconfig.dev.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/Mod05Lab01/Mod05Lab01/bin/Debug/netcoreapp2.0/Mod05Lab01.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/Mod05Lab01/Mod05Lab01/bin/Debug/netcoreapp2.0/Mod05Lab01.pdb
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/Mod05Lab01/Mod05Lab01/obj/Debug/netcoreapp2.0/Mod05Lab01.csprojAssemblyReference.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/Mod05Lab01/Mod05Lab01/obj/Debug/netcoreapp2.0/Mod05Lab01.csproj.CoreCompileInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/Mod05Lab01/Mod05Lab01/obj/Debug/netcoreapp2.0/Mod05Lab01.AssemblyInfoInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/Mod05Lab01/Mod05Lab01/obj/Debug/netcoreapp2.0/Mod05Lab01.AssemblyInfo.cs
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/Mod05Lab01/Mod05Lab01/obj/Debug/netcoreapp2.0/Mod05Lab01.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/Mod05Lab01/Mod05Lab01/obj/Debug/netcoreapp2.0/Mod05Lab01.pdb

@@ -1,0 +1,11 @@
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csprojResolveAssemblyReference.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb
