@@ -1,0 +1,28 @@
+﻿@model IEnumerable<MediaCatalog.Models.Media>
+@{
+    ViewData["Title"] = "Import";
+}
+
+<head>
+    <link href="/css/bootstrap-grid.css" type="text/css" rel="stylesheet" />
+</head>
+<div class="container">
+    <div class="jumbotron">
+        <h2>Media Import</h2>
+    </div>
+</div>
+
+<form method=""post" enctype="multipart/form-data" asp-controller="Media" asp-action="Import">
+    <div class="form-group">
+        <div class="col-md-10">
+            <p>Upload file:</p>
+            <input type="file" name="file" />
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" value="Upload" />
+        </div>
+    </div>
+</form>
+@ViewBag.Message

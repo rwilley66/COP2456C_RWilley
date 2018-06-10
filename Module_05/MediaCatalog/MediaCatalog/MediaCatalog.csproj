@@ -1,0 +1,87 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.0" />
+    <PackageReference Include="bootstrap" Version="4.1.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\Media\Create.cshtml" />
+    <Content Remove="Views\Media\Delete.cshtml" />
+    <Content Remove="Views\Media\Details.cshtml" />
+    <Content Remove="Views\Media\Edit.cshtml" />
+    <Content Remove="Views\Media\Index.cshtml" />
+    <Content Remove="wwwroot\images\media.jpg" />
+    <Content Remove="wwwroot\css\bootstrap-grid.css" />
+    <Content Remove="wwwroot\css\bootstrap-grid.css.map" />
+    <Content Remove="wwwroot\css\bootstrap-grid.min.css" />
+    <Content Remove="wwwroot\css\bootstrap-grid.min.css.map" />
+    <Content Remove="wwwroot\css\bootstrap-reboot.css" />
+    <Content Remove="wwwroot\css\bootstrap-reboot.css.map" />
+    <Content Remove="wwwroot\css\bootstrap-reboot.min.css" />
+    <Content Remove="wwwroot\css\bootstrap-reboot.min.css.map" />
+    <Content Remove="wwwroot\css\bootstrap.css" />
+    <Content Remove="wwwroot\css\bootstrap.css.map" />
+    <Content Remove="wwwroot\css\bootstrap.min.css" />
+    <Content Remove="wwwroot\css\bootstrap.min.css.map" />
+    <Content Remove="wwwroot\js\bootstrap.bundle.js" />
+    <Content Remove="wwwroot\js\bootstrap.bundle.js.map" />
+    <Content Remove="wwwroot\js\bootstrap.bundle.min.js" />
+    <Content Remove="wwwroot\js\bootstrap.bundle.min.js.map" />
+    <Content Remove="wwwroot\js\bootstrap.js" />
+    <Content Remove="wwwroot\js\bootstrap.js.map" />
+    <Content Remove="wwwroot\js\bootstrap.min.js" />
+    <Content Remove="wwwroot\js\bootstrap.min.js.map" />
+    <Content Remove="wwwroot\images\AudioBook.png" />
+    <Content Remove="wwwroot\images\music.png" />
+    <Content Remove="wwwroot\images\Video.png" />
+    <Content Remove="Views\Media\UpdateRatings.cshtml" />
+    <Content Remove="Views\Media\Index %28copy%29.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Models\JsonFiles.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Views\Media\Create.cshtml" />
+    <None Include="Views\Media\Delete.cshtml" />
+    <None Include="Views\Media\Details.cshtml" />
+    <None Include="Views\Media\Edit.cshtml" />
+    <None Include="Views\Media\Index.cshtml" />
+    <None Include="wwwroot\images\media.jpg" />
+    <None Include="wwwroot\css\bootstrap-grid.css" />
+    <None Include="wwwroot\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\css\bootstrap-grid.min.css" />
+    <None Include="wwwroot\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\css\bootstrap-reboot.css" />
+    <None Include="wwwroot\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\css\bootstrap-reboot.min.css" />
+    <None Include="wwwroot\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\css\bootstrap.css" />
+    <None Include="wwwroot\css\bootstrap.css.map" />
+    <None Include="wwwroot\css\bootstrap.min.css" />
+    <None Include="wwwroot\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\js\bootstrap.js" />
+    <None Include="wwwroot\js\bootstrap.js.map" />
+    <None Include="wwwroot\js\bootstrap.min.js" />
+    <None Include="wwwroot\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\images\AudioBook.png" />
+    <None Include="wwwroot\images\Music.png" />
+    <None Include="wwwroot\images\Video.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Models\ContactUSContext.cs" />
+    <Compile Remove="Models\EmptyClass.cs" />
+    <Compile Remove="Models\Upload.cs" />
+  </ItemGroup>
+</Project>

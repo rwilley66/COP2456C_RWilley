@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MediaCatalog.Models.Media>
+    @{
+    ViewData["Title"] = "UpdateRating";
+    }
+    <head>
+        <link href="/css/bootstrap-grid.css" type="text/css" rel="stylesheet" />
+    </head>
+    <div class="container">
+        <div class="jumbotron">
+            <h2>Update Rating</h2>
+        </div>
+    </div>
+
+@if (ViewData["RowsAffected"] == null)
+{
+    <form asp-action="UpdateRating">
+        <div>
+            <p>Enter the new default rating: @Html.TextBox("newRating")</p>
+            <p><input type="submit" value="Update" class="btn btn-success"</p>
+        </div>
+    </form>
+}
+
+@if (ViewData["RowsAffected"] != null)
+{
+    <p>Number of records updated: @ViewData["RowsAffected"]</p>
+}
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

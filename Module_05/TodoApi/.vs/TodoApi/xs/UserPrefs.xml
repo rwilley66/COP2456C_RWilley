@@ -1,11 +1,5 @@
 ﻿<Properties StartupConfiguration="{11F95802-C4BB-4D8D-91B4-C237A19FCF08}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApi/Startup.cs">
-    <Files>
-      <File FileName="TodoApi/wwwroot/site.js" Line="109" Column="2" />
-      <File FileName="TodoApi/Properties/launchSettings.json" Line="21" Column="1" />
-      <File FileName="TodoApi/Startup.cs" Line="24" Column="6" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

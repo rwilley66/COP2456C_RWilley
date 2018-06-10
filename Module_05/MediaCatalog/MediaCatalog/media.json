@@ -1,0 +1,112 @@
+[
+	{
+		"Title": "Sing",
+		"MediaType": "Video",
+		"Format": "MPEG4",
+		"Duration": 107,
+		"Genre": "Comedy",
+		"Year": 2016,
+		"Rating": 5,
+		"Location": "/Volumes/Multimedia/Movies/Sing.mp4",
+		"Notes": ""
+	},
+	{
+		"Title": "Amityville Exorcism",
+		"MediaType": "Video",
+		"Format": "MPEG4",
+		"Duration": 77,
+		"Genre": "Horror",
+		"Year": 2017,
+		"Rating": 3,
+		"Location": "/Volumes/Multimedia/Movies/Amityville_Exorcism.mp4",
+		"Notes": ""
+	},
+	{
+		"Title": "The Conjuring 2",
+		"MediaType": "Video",
+		"Format": "MPEG4",
+		"Duration": 133,
+		"Genre": "Horror",
+		"Year": 2016,
+		"Rating": 4,
+		"Location": "/Volumes/Multimedia/Movies/The_Conjuring_2.mp4",
+		"Notes": ""
+	},
+	{
+		"Title": "Sing",
+		"MediaType": "Video",
+		"Format": "MPEG4",
+		"Duration": 107,
+		"Genre": "Comedy",
+		"Year": 2016,
+		"Rating": 5,
+		"Location": "/Volumes/Multimedia/Movies/Sing.mp4",
+		"Notes": ""
+	},
+	{
+		"Title": "Sing",
+		"MediaType": "Video",
+		"Format": "MPEG4",
+		"Duration": 107,
+		"Genre": "Comedy",
+		"Year": 2016,
+		"Rating": 5,
+		"Location": "/Volumes/Multimedia/Movies/Sing.mp4",
+		"Notes": ""
+	},
+	{
+		"Title": "Sing",
+		"MediaType": "Video",
+		"Format": "MPEG4",
+		"Duration": 107,
+		"Genre": "Comedy",
+		"Year": 2016,
+		"Rating": 5,
+		"Location": "/Volumes/Multimedia/Movies/Sing.mp4",
+		"Notes": ""
+	},
+	{
+		"Title": "Call Me Maybe",
+		"MediaType": "Music",
+		"Format": "MP3",
+		"Duration": 3,
+		"Genre": "Pop",
+		"Year": 2012,
+		"Rating": 5,
+		"Location": "/Users/jsmith/Music/iTunes/iTunes Media/Track03.mp3",
+		"Notes": ""
+	},
+	{
+		"Title": "Bring Me To Life",
+		"MediaType": "Music",
+		"Format": "MP3",
+		"Duration": 4,
+		"Genre": "Rock",
+		"Year": 2003,
+		"Rating": 5,
+		"Location": "/Users/jsmith/Music/iTunes/iTunes Media/Track01.mp3",
+		"Notes": ""
+	},
+	{
+		"Title": "Welcome to the Renaissance",
+		"MediaType": "Music",
+		"Format": "MP3",
+		"Duration": 5,
+		"Genre": "Soundtrack",
+		"Year": 2015,
+		"Rating": 5,
+		"Location": "/Users/jsmith/Music/iTunes/iTunes Media/Track04.mp3",
+		"Notes": ""
+	},
+	{
+		"Title": "A Panicked Premonition",
+		"MediaType": "Audiobook",
+		"Format": "WMA",
+		"Duration": 767,
+		"Genre": "Mystery",
+		"Year": 2017,
+		"Rating": 5,
+		"Location": "/Users/jsmith/Music/iTunes/iTunes Media/Panicked.wma",
+		"Notes": ""
+	}
+]

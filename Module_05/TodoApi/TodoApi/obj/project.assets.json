@@ -12697,11 +12697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/TodoApi.csproj",
+      "projectUniqueName": "/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_RWilley/Module_05/TodoApi/TodoApi/TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/TodoApi.csproj",
+      "projectPath": "/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_RWilley/Module_05/TodoApi/TodoApi/TodoApi.csproj",
       "packagesPath": "/Users/rwilley966/.nuget/packages/",
-      "outputPath": "/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_CSharp/Module_05/TodoApi/TodoApi/obj",
+      "outputPath": "/Volumes/Data/Rasmussen/!Microsoft_CSharp/Course_Assignments/COP2456C_RWilley/Module_05/TodoApi/TodoApi/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
